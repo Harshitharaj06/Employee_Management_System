@@ -7,7 +7,10 @@ The Project is Designed using Servlets and JSP.
   MySQL JDBC driver.
 # To run
   Create Project Using Eclipse.
-  For the Designed Project Create a Packages called Model, Util, Dao, Service, Controller using Servlet.
-  Create the JSP in Web Content.
-  Run index.jsp in eclispe or navigate to http://localhost:8080/EMSsprint2/index.jsp
+ 
+ For the Designed Project Create a Packages called Model, Util, Dao, Service, Controller using Servlet.
+ 
+ Create the JSP in Web Content.
+ 
+ Run index.jsp in eclispe or navigate to http://localhost:8080/EMSsprint2/index.jsp
   
