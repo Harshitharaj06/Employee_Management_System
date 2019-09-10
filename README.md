@@ -2,8 +2,11 @@
 The Project is Designed using Servlets and JSP.
 # Requirements
   Java Servlets as Controller
+  
   JSP in a Web Content.
+  
   Tomcat Server.
+  
   MySQL JDBC driver.
 # To run
   Create Project Using Eclipse.
